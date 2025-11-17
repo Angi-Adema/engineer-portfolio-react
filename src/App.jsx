@@ -40,10 +40,10 @@ const Nav = () => {
           </div>
           <div className="leading-tight">
             <div className="text-[0.95rem] font-semibold uppercase tracking-[0.16em]">
-              Your Name
+              Angela E. Adema
             </div>
             <div className="text-[0.8rem] text-text-muted">
-              Software Engineer · Java &amp; Python
+              Software Engineer · Java | Python | Spring Boot | AI | REST APIs 
             </div>
           </div>
         </div>
@@ -124,9 +124,8 @@ const Hero = () => {
         </h1>
 
         <p className="mb-5 max-w-xl text-[0.95rem] text-text-muted">
-          I’m a software engineer focused on Java, Spring Boot, Python, and
-          cloud-native tooling. I love turning complex problems into reliable,
-          clean code that teams can trust.
+        I’m an early-career Software Engineer specializing in Java, Spring, Python, RESTful APIs, and cloud-native development. I love solving complex problems, building clean and scalable backend systems, and creating tools that deliver real-world impact.
+
         </p>
 
         <div className="mb-5 flex flex-wrap gap-2 text-[0.78rem]">
